@@ -24,7 +24,7 @@ This project is designed to handle data ingestion, processing, correlation, and 
 ### Installation
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/AdvertiseX-Data-Engineering.git
+   git clone https://github.com/queryit-admin/AdvertiseX-Data-Engineering.git
    ```
 2. Install required libraries:  
    ```bash
